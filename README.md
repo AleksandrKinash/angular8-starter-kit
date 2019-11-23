@@ -1,4 +1,16 @@
-# Angular8StarterKit
+# Angular 8 Starter Kit
+
+## Serving and testing a bundle after ng build
+
+`angular-http-server`: https://www.npmjs.com/package/angular-http-server
+```bash
+npm install -g angular-http-server
+# run
+angular-http-server	--path dist
+```
+
+---
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
