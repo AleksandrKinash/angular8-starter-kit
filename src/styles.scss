@@ -1,1 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
+@import "~normalize-scss/sass/normalize/import-now";
+@import "custom.material.theme.scss";
+@import "castom.material.scss";
+@import 'common';
+@import 'scrollbar';

@@ -5,6 +5,7 @@
 		"outDir": "./dist/out-tsc",
 		"paths": {
 			"@env/*": 			["src/environments/*"],
+			"@MOCK/*": 		    ["src/app/mock/*"],
 			"@interfaces/*": 	["src/app/interfaces/*"],
 			"@models/*": 		["src/app/models/*"],
 			"@modules/*": 		["src/app/modules/*"],
